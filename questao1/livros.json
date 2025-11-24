@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "titulo": "O Senhor dos Anéis",
+        "autor": "J.R.R. Tolkien",
+        "disponivel": true
+    },
+    {
+        "id": 2,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "disponivel": true
+    }
+]
